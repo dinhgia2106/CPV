@@ -1,0 +1,23 @@
+You will use the Augmented Forest Segmentation Dataset available on Kaggle to complete the following tasks. 
+
+Tasks:
+1. Data Exploration:
+Load the dataset and inspect the images.
+Randomly select an image from the dataset. Determine how many bytes are used to store the image.
+Explanation: Analyze how the image resolution and brightness influence the storage size. Include a brief discussion on these factors.
+
+2. Weather Classification:
+Devise a simple method to classify images into two categories:
+Images captured on a good weather day.
+Images captured on a bad weather day.
+Provide a rationale for your classification method and its limitations.
+
+3. Image Compression:
+Implement a compression technique of your choice. For example, reduce the color space (e.g., quantizing colors or converting to grayscale).
+Compare the image quality before and after compression using the following metrics:
+Peak Signal-to-Noise Ratio (PSNR)
+Mean Squared Error (MSE)
+Structural Similarity Index (SSIM)
+Include a short analysis of the results to evaluate the effectiveness of your compression method.
+
+https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation
